@@ -1,3 +1,1 @@
-Aside from standard data science packages (pandas, numpy, sklearn, etc.), this project makes use of PyTorch for constructing a Self-Normalizing Network (SNN), hyperopt (https://github.com/hyperopt/hyperopt) to tune hyperparameters of the SNN, and imblearn (https://imbalanced-learn.readthedocs.io/en/stable/api.html) to balance the classes. Cells to install the hyperopt and imblearn packages are included at the beginning of notebook 3_model_experiments.ipynb and simply need to be executed.
-
 The dataset is sourced from kaggle (https://www.kaggle.com/joniarroba/noshowappointments) and is very clean and complete.
